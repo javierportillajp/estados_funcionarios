@@ -1,0 +1,11 @@
+[
+{"A1":"DISTRUBUCCION ARMAMENTO","E1":"SERPA II","I1":"SERPA III","M1":"FUNDA JERICHO","Q1":"MANTAS","U1":"ESPOSAS","Y1":"CHALECOS","AC1":"ARMADURAS","AG1":"CASCOS","AM1":"DISPONIBLE","AN1":"PERMANENTE","AO1":"PRESTAMO","AR1":"ASIGNADO","AS1":"DISPONIBLE"},
+{"AL2":"DISTRUBUCCION ARMAMENTO","AM2":"108","AN2":"306","AO2":"67","AQ2":"SERPA II","AR2":"216","AS2":"68"},
+{"AQ3":"SERPA III","AR3":"24","AS3":"33"},
+{"A4":"Etiquetas de fila","B4":"Cuenta de ESTADO","C4":"481","E4":"Etiquetas de fila","F4":"Cuenta de ESTADO","G4":"284","I4":"Etiquetas de fila","J4":"Cuenta de ESTADO","K4":"57","M4":"Etiquetas de fila","N4":"Cuenta de ESTADO","O4":"130","Q4":"Etiquetas de fila","R4":"Cuenta de ESTADO","S4":"7","U4":"Etiquetas de fila","V4":"Cuenta de ESTADO","W4":"25","Y4":"Etiquetas de fila","Z4":"Cuenta de ESTADO","AA4":"458","AC4":"Etiquetas de fila","AD4":"Cuenta de ESTADO","AE4":"25","AG4":"Etiquetas de fila","AH4":"Cuenta de ESTADO","AI4":"25","AQ4":"FUNDA JERICHO","AR4":"66","AS4":"64"},
+{"A5":"DISPONIBLE","B5":"108","C5":"108","E5":"ASIGNADO","F5":"216","G5":"216","I5":"ASIGNADO","J5":"24","K5":"24","M5":"ASIGNADO","N5":"66","O5":"66","Q5":"ASIGNADO","R5":"2","S5":"2","U5":"ASIGNADO","V5":"23","W5":"23","Y5":"ASIGNADO","Z5":"346","AA5":"346","AC5":"DISPONIBLE","AD5":"25","AG5":"DISPONIBLE","AH5":"25","AQ5":"MANTAS","AR5":"2","AS5":"5"},
+{"A6":"PERMANENTE","B6":"306","C6":"306","E6":"DISPONIBLE","F6":"68","G6":"68","I6":"DISPONIBLE","J6":"33","K6":"33","M6":"DISPONIBLE","N6":"64","O6":"64","Q6":"DISPONIBLE","R6":"5","S6":"5","U6":"DISPONIBLE","V6":"2","W6":"2","Y6":"DISPONIBLE","Z6":"112","AA6":"112","AC6":"Total general","AD6":"25","AG6":"Total general","AH6":"25","AQ6":"ESPOSAS","AR6":"23","AS6":"2"},
+{"A7":"PRESTAMO","B7":"67","C7":"67","E7":"Total general","F7":"284","I7":"Total general","J7":"57","M7":"Total general","N7":"130","Q7":"Total general","R7":"7","U7":"Total general","V7":"25","Y7":"Total general","Z7":"458","AQ7":"CHALECOS","AR7":"346","AS7":"112"},
+{"A8":"Total general","B8":"481","AQ8":"ARMADURAS","AR8":"0","AS8":"25"},
+
+]
