@@ -1,8 +1,8 @@
 [
-{"tipo":"DISTRUBUCCION ARMAMENTO","disponible":"110","permanente":"241","prestamo":"109"},
+{"tipo":"DISTRUBUCCION ARMAMENTO","disponible":"111","permanente":"241","prestamo":"108"},
 {"elemento":"FUNDA JERICHO","asignado":"54","disponible":"56"},
 {"elemento":"MANTAS","asignado":"4","disponible":"3"},
-{"elemento":"ESPOSAS","asignado":"17","disponible":"8"},
+{"elemento":"ESPOSAS","asignado":"18","disponible":"7"},
 {"elemento":"CHALECOS","asignado":"323","disponible":"116"},
 {"elemento":"ARMADURAS","asignado":"0","disponible":"30"},
 {"elemento":"CASCOS","asignado":"0","disponible":"69"}
